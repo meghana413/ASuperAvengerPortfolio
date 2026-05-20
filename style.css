@@ -103,7 +103,7 @@
     /* HERO SECTION */
 
     .hero{
-  min-height:130vh;
+  min-height:100vh;
 
   background:
   linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)),url('https://m.media-amazon.com/images/I/71RH1cpjGoL.jpg');
