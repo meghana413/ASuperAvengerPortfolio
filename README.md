@@ -74,8 +74,6 @@ Captain America themed modern portfolio website inspired by Marvel Avengers.
     │
     ├── style.css
     │
-    ├── script.js
-    │
     ├── README.md
     │
     └── assets/
